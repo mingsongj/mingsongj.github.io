@@ -21,8 +21,10 @@ This project combines commercially available 3D printing with robot lamination p
 
  
  <p align="center">
- <iframe width="672" height="378" src="https://www.youtube-nocookie.com/embed/hA4khyXnjLY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    
+ <video width="672" height="378" controls>
+   <source src="{{ '/assets/video/flexo_walk.mp4' | prepend: site.baseurl }}" type="video/mp4">
+   Your browser does not support the video tag.
+ </video>
  </p>
 
 <br/>
