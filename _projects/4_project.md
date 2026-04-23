@@ -7,7 +7,9 @@ importance: 4
 category: research
 ---
 
-This project is joint work I led with Jue Wang at Yale's Faboratory (Prof. Rebecca Kramer-Bottiglio), building **LUART** — a Learning Untethered Amphibious Robotic Turtle. LUART is a soft-rigid hybrid quadruped with variable-stiffness, shape-morphing limbs that can switch between a cylindrical "tortoise leg" for firm ground and a hydrofoil-like "sea-turtle flipper" for deformable terrain. The core contribution is a method we call **surrogate compliance modeling**: instead of simulating the soft limbs with expensive finite-element physics, we represent their deformation as a small set of indirect variables — effective limb length and limb center of mass — inside a standard rigid-body simulator, then train locomotion policies with reinforcement learning under aggressive randomization over those variables. The resulting closed-loop gaits transfer directly to hardware and achieve an order-of-magnitude reduction in cost of transport over previous hand-designed open-loop baselines.
+This project is joint work I led with Jue Wang at Yale's Faboratory (Prof. Rebecca Kramer-Bottiglio), building **LUART** — a Learning Untethered Amphibious Robotic Turtle. The story is simple: one turtle-inspired quadruped whose limbs can switch between a rigid "tortoise leg" and a soft "sea-turtle flipper," and a single RL policy that learns to ride that soft-hard morphology change and pick the right gait for whatever ground is underneath.
+
+The key trick is that we train everything in a **rigid-body** simulator. Soft-body physics is too expensive for large-scale RL, so instead of simulating the compliant limb directly we treat its effective length and center of mass as parameters and randomize them hard during training. The resulting policy is robust to the real deformation the physical limb undergoes — and transfers to hardware without further tuning. On top of that same policy, changing pouch pressure and body-height command is enough to move between walking and crawling, and between rigid and soft limb modes, across flat ground, gravel, mud, and grass.
 
 <p align="center">
 <img src="{{ '/assets/img/luart_cover.png' | prepend: site.baseurl }}" width="85%" />
@@ -15,10 +17,6 @@ This project is joint work I led with Jue Wang at Yale's Faboratory (Prof. Rebec
 <p align="center">
 <em><b>LUART concept: one robot, two limb modes — rigid columnar legs for flat terrain, compliant flippers for gravel, mud, and grass — with a single RL-trained policy that adapts.</b></em>
 </p>
-
-<p style="font-size: 1.17em; font-weight: bold; margin-top: 28px; margin-bottom: 10px;">Why this matters</p>
-
-Most soft and soft-rigid robots still run on open-loop, hand-tuned gaits because accurate soft-body simulation is too slow for large-scale RL. We sidestep that: by capturing only the *mechanical consequences* of compliance (how long is the limb really, where is its mass) rather than full soft-body physics, we make RL tractable in a rigid-body simulator (Genesis) and still get policies that hold up in the real world — including on rheologically complex substrates like mud and wet grass.
 
 <p style="font-size: 1.17em; font-weight: bold; margin-top: 28px; margin-bottom: 10px;">Sim-to-real comparison</p>
 
