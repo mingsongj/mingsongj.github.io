@@ -3,7 +3,7 @@ layout: page
 title: Flexoskeleton Printing
 description: Bio-inspired robot fabrication for multifunctional applications
 img: assets/img/flexo_intro.png
-importance: 2
+importance: 3
 category: research
 ---
 

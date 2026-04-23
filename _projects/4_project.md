@@ -3,7 +3,7 @@ layout: page
 title: LUART — Amphibious Robotic Turtle
 description: Surrogate compliance modeling enables reinforcement-learned locomotion gaits for a soft-rigid hybrid turtle robot
 img: assets/img/luart_cover.png
-importance: 4
+importance: 1
 category: research
 ---
 

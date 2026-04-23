@@ -4,7 +4,7 @@ title: Reconfigurable Laminates
 description: Laminates that can be reconfigured for tunable mechancial properties
 img: assets/img/rl_intro.png
 redirect: 
-importance: 3
+importance: 4
 category: research
 ---
 

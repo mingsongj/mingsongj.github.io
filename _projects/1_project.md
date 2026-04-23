@@ -3,7 +3,7 @@ layout: page
 title: SCRAM-Bots
 description: Soft Curved Reconfigurable Anisotropic Mechanisms
 img: assets/img/scram_p1.png
-importance: 1
+importance: 2
 category: research
 ---
 
