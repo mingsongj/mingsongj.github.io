@@ -62,18 +62,18 @@ The key trick is that we train everything in a **rigid-body** simulator. Soft-bo
 </p>
 
 <p align="center">
+<img src="{{ '/assets/img/luart_team_robot.jpg' | prepend: site.baseurl }}" width="70%" />
+</p>
+<p align="center">
+<em><b>The Faboratory turtle team after the Yale Engineering feature.</b></em>
+</p>
+
+<p align="center">
 <img src="{{ '/assets/img/luart_field.jpg' | prepend: site.baseurl }}" width="48%" style="margin-right: 1%;" />
 <img src="{{ '/assets/img/luart_team_field.jpg' | prepend: site.baseurl }}" width="48%" />
 </p>
 <p align="center">
 <em><b>Field testing along a muddy creek bank in New Haven (left) and with co-first-author Jue Wang during an outdoor run (right). ArUco markers on the shell were used for ground-truth pose when GPS resolution wasn't enough.</b></em>
-</p>
-
-<p align="center">
-<img src="{{ '/assets/img/luart_team_robot.jpg' | prepend: site.baseurl }}" width="70%" />
-</p>
-<p align="center">
-<em><b>The Faboratory turtle team after the Yale Engineering feature.</b></em>
 </p>
 
 <p align="center">
@@ -87,7 +87,7 @@ The key trick is that we train everything in a **rigid-body** simulator. Soft-bo
 <img src="{{ '/assets/img/luart_gtc.jpg' | prepend: site.baseurl }}" width="60%" />
 </p>
 <p align="center">
-<em><b>NVIDIA GTC 2026 in San Jose — sharing the RL + Genesis simulation stack that powered LUART.</b></em>
+<em><b>NVIDIA GTC 2025 in San Jose — sharing the RL + Genesis simulation stack that powered LUART.</b></em>
 </p>
 
 <p style="font-size: 1.17em; font-weight: bold; margin-top: 28px; margin-bottom: 10px;">Key results</p>
