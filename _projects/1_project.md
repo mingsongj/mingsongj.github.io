@@ -55,11 +55,17 @@ This is a groundbreaking research on building new soft robots and mechanisms via
  </p>
 
 <p align="center">
-<img src="{{ '/assets/img/jason_in_lab.JPEG' | prepend: site.baseurl }}" width="48%" style="margin-right: 1%;" />
-<img src="{{ '/assets/img/jason_in_front_of_ucsd_ebu2.JPEG' | prepend: site.baseurl }}" width="48%" />
+<img src="{{ '/assets/img/jason_in_lab.JPEG' | prepend: site.baseurl }}" width="672" />
 </p>
 <p align="center">
-<em><b>Left: bench-testing a SCRAM-Bot prototype in the Gravish Lab at UC San Diego. Right: outside EBU2, home of UCSD Jacobs School of Engineering, where most of this work was built.</b></em>
+<em><b>In the Gravish Lab at UC San Diego, assembling a SCRAM-Bot prototype.</b></em>
+</p>
+
+<p align="center">
+<img src="{{ '/assets/img/jason_in_front_of_ucsd_ebu2.JPEG' | prepend: site.baseurl }}" width="672" />
+</p>
+<p align="center">
+<em><b>Outside EBU2, UCSD Jacobs School of Engineering — where most of this work was built.</b></em>
 </p>
 
 <!-- Markdown Starts Below -->
