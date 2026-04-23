@@ -99,4 +99,4 @@ The key trick is that we train everything in a **rigid-body** simulator. Soft-bo
 
 <p style="font-size: 1.17em; font-weight: bold; margin-top: 28px; margin-bottom: 10px;">Publication</p>
 
-1. J. Wang*, <b>M. Jiang*</b>, L. A. Ramirez, B. Yang, M. Zhang, E. Figueroa, W. Yan, R. Kramer-Bottiglio, "Surrogate compliance modeling enables reinforcement learned locomotion gaits for soft robots," 2025. *Equal contribution. <a href="/assets/pdf/luart.pdf" target="_blank">[pdf]</a> <a href="https://github.com/the-faboratory/LUART" target="_blank">[code]</a>
+1. J. Wang*, <b>M. Jiang*</b>, L. A. Ramirez, B. Yang, M. Zhang, E. Figueroa, W. Yan, R. Kramer-Bottiglio, "Surrogate compliance modeling enables reinforcement learned locomotion gaits for soft robots," 2025. *Equal contribution. <a href="/assets/pdf/luart.pdf" target="_blank">[pdf]</a>
