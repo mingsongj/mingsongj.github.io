@@ -21,18 +21,24 @@ This project is an innovation of tradtional lamination process for making low-pr
 
 
 <p align="center">
-<iframe width="672" height="378" src="https://www.youtube-nocookie.com/embed/H0JdyBRR5TY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video width="672" height="378" controls>
+  <source src="{{ '/assets/video/reconfigurable laminates/wind_tunnel.mp4' | prepend: site.baseurl }}" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 </p>
 
 <p align="center">
-<iframe width="672" height="378" src="https://www.youtube-nocookie.com/embed/ZTC3Z6J9Yfo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<video width="672" height="378" controls>
+  <source src="{{ '/assets/video/reconfigurable laminates/reconfig_fabric.mp4' | prepend: site.baseurl }}" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 </p>
 
 <p align="center">
-<iframe width="672" height="378" src="https://www.youtube-nocookie.com/embed/9JQLsqJXufY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
+<video width="672" height="378" controls>
+  <source src="{{ '/assets/video/reconfigurable laminates/pneumatic_actuator.mp4' | prepend: site.baseurl }}" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 </p>
 
 <!-- Markdown Starts Below -->
