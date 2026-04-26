@@ -15,7 +15,10 @@ Graduate level course (ME, EE, BioE)
 
 
 <p align="center">
-<iframe width="672" height="378" src="https://www.youtube-nocookie.com/embed/xXe71Z6f-cs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video width="672" height="378" controls>
+    <source src="/assets/video/teaching%20mae207.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
     </p>
     
 <p align="center">
