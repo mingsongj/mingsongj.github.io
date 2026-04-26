@@ -22,7 +22,7 @@ Graduate level course (ME, EE, BioE)
     </p>
     
 <p align="center">
-<em><b> A video clip of MAE 207, Bioinspired Mobile Robotics (final demo day). </b></em>
+<em><b> A video clip of MAE 207, Bioinspired Mobile Robotics (final demo day). Year 2018. </b></em>
  </p>
 
 
