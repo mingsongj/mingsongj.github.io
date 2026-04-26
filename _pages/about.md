@@ -62,3 +62,16 @@ I believe robots embody intelligence in both physical and algorithmic domains. A
 - Adjunct Advisor, School of Advanced Manufacturing, Sun Yat-sen University
 - Best Paper Nominee, IEEE RoboSoft 2021
 - Lead Teaching Assistant, MAE 207 Bio-inspired Mobile Robotics, UC San Diego (2018–2020)
+
+<br/>
+
+### Projects
+
+<div class="projects">
+  {%- assign sorted_projects = site.projects | sort: "importance" -%}
+  <div class="grid">
+    {%- for project in sorted_projects -%}
+      {% include projects.html %}
+    {%- endfor %}
+  </div>
+</div>
