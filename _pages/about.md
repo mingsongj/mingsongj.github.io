@@ -22,7 +22,7 @@ social: false  # includes social icons at the bottom of the page
 
 [google scholar](https://scholar.google.com/citations?user=1u-F3DUAAAAJ&hl=en)
 
-I am an enthusiastic roboticist focusing on future reconfigurable and multi-functional robots built from smart materials, hybrid compositions, and novel manufacturing. For future robots to replace human labor in **_boring_**, **_repetitive_**, and **_dangerous_** jobs, they must also be **safe**, **collaborative**, and **adaptive** in every human-involved setting. I am now carrying that research forward into industry, building consumer-grade companion robots at **Mosai Robotics**, a company I founded in 2026.
+I am an enthusiastic roboticist focusing on future reconfigurable and multi-functional robots built from smart materials, hybrid compositions, and novel manufacturing. For future robots to replace human labor in **_boring_**, **_repetitive_**, and **_dangerous_** jobs, they must also be **safe**, **collaborative**, and **adaptive** in every human-involved setting. I am now carrying that research forward into industry, building AI companion agents and an app for older adults at **Mosai Robotics**, a company I founded in 2026.
 
 I believe robots embody intelligence in both physical and algorithmic domains. As a hands-on roboticist, I seek to exploit engineering benefits from both rigid and soft materials and structures, and to combine them into robots with reconfigurable states and multi-modal functionalities. Specifically, my work spans 1) reconfigurable hard-and-soft robot designs and mechanisms; 2) safe human–robot interfaces and soft functional robotic devices; and 3) smart robot manufacturing and biomimetic robotic features.
 
@@ -31,10 +31,8 @@ I believe robots embody intelligence in both physical and algorithmic domains. A
 ### Current Position
 
 **Founder & CEO**, Mosai Robotics (Shenzhen) · 2026.2 – present
-- Founded the company from the ground up, focusing on consumer robotics and smart hardware for older adults; leading product definition, team building, and fundraising planning, while advancing industry–academia collaboration with the Hong Kong University of Science and Technology.
-- Leading the development of an **AI companion robot for older adults**, embodied as a robotic pet and designed for families where adult children purchase the product for their aging parents. Centered on **daily assistance, family connection, and safety**, it helps adult children living away from home stay connected with their parents.
-- Completed systematic market research, product definition, and technology selection, and entered the prototype design stage; established contacts and collaborations with eldercare facilities in Beijing.
-- Open to conversations with early technical co-founders and angel investors.
+- Building AI companion agents and an app for older adults—offering companionship, understanding their needs and routines, and quietly helping manage everyday life.
+- Open to early technical co-founders and angel investors.
 
 ### Previous Positions
 
