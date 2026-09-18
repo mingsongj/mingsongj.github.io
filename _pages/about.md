@@ -22,9 +22,9 @@ social: false  # includes social icons at the bottom of the page
 
 [google scholar](https://scholar.google.com/citations?user=1u-F3DUAAAAJ&hl=en)
 
-I am an enthusiastic roboticist focusing on future reconfigurable and multi-functional robots built from smart materials, hybrid compositions, and novel manufacturing. For future robots to replace human labor in **_boring_**, **_repetitive_**, and **_dangerous_** jobs, they must also be **safe**, **collaborative**, and **adaptive** in every human-involved setting. I am now carrying that research forward into industry, building AI companion agents and an app for older adults at **Mosai Robotics**, a company I founded in 2026.
+My work began in **soft robotics and human–robot interaction**, exploring how materials, structures, and algorithms can make robots more adaptive and responsive to human needs. This experience shaped my view of intelligence: what matters is not only what a system can do, but how safely, naturally, and meaningfully it works with people.
 
-I believe robots embody intelligence in both physical and algorithmic domains. As a hands-on roboticist, I seek to exploit engineering benefits from both rigid and soft materials and structures, and to combine them into robots with reconfigurable states and multi-modal functionalities. Specifically, my work spans 1) reconfigurable hard-and-soft robot designs and mechanisms; 2) safe human–robot interfaces and soft functional robotic devices; and 3) smart robot manufacturing and biomimetic robotic features.
+That perspective now guides my work on **the next generation of AI companions**—systems that understand people’s needs and routines, offer companionship, and quietly help manage everyday life. At **Mosai Robotics**, which I founded in 2026, I am developing **AI companion agents and an app for older adults**, bringing my experience in human-centered robotics toward a broader goal: making AI a more personal, attentive, and helpful presence in people’s lives.
 
 <br/>
 
